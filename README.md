@@ -103,3 +103,5 @@ new PrintWriter("countries.txt") {
 2. https://www.youtube.com/watch?v=MkdPchZDlNE
 
 3. https://www.youtube.com/watch?v=M8m_HOXX2Uo&t=124s
+
+4. http://vishnuviswanath.com/spark_rdd.html
