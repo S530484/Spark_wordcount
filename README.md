@@ -90,6 +90,11 @@ new PrintWriter("countries.txt") {
   close()
 }
 
+## Data Chart for the obtained partitions
+
+![screenshot 253](https://user-images.githubusercontent.com/31740161/47864632-1af10180-ddc8-11e8-9658-9c8a389a4189.png)  
+
+![screenshot 254](https://user-images.githubusercontent.com/31740161/47864692-3e1bb100-ddc8-11e8-9e87-b055429ebda2.png)
 
 ## References:
 
