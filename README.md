@@ -38,7 +38,7 @@ If you want to check the output for first 100 lines you can use the below code
 Using the command below you end up with rdd to be divided exactly to 5 partitions of roughly equal sizes.
 
 ```
->val repart = counts.repartition(5)
+>val repart = fin.repartition(5)
 ```
 
 ## Wordcount:
